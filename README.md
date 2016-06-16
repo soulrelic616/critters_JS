@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
-Critters.js
+Gremlins.js
 =================
 
 This small script finds those strange gremlins Photoshop and other tools create when inserting linebreaks in their text editors and replaces them. 
