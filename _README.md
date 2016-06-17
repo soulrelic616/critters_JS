@@ -5,7 +5,7 @@ Gremlins.js
 
 This small script finds those strange gremlins Photoshop and other tools create when inserting linebreaks in their text editors and replaces them with UTF-8 encoded characters, making them readable in HTML. 
 
-[Demo](https://github.com/soulrelic616/gremlins_JS/blob/master/demo.html)
+[Demo](https://cdn.rawgit.com/soulrelic616/gremlins_JS/master/index.html)
 
 More info on gremlins here:
 
